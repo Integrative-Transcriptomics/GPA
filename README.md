@@ -10,4 +10,4 @@ Detailed description will follow soon.
 
 ## Usage
 
-<code>$ java -jar GPA.jar [GPAconfig File]/code>
+<code>$ java -jar GPA.jar [GPAconfig File]</code>
