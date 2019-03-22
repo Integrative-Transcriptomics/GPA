@@ -5,7 +5,7 @@ Detailed description will follow soon.
 ## Dependencies
 
 * progressiveMauve
-* Java Virtual Machine
+* Java Virtual Machine (JRE 11)
 
 
 ## Usage
