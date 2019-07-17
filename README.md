@@ -1,6 +1,6 @@
 # GPA - Genome Profile Alignment
 
-GPA is a Genome Profile Alignment tool. GPA relies on *progressiveMauve* for the underlying alignment, to compute several smaller sets of aligned genomes that are combined to a full WGA through their profiles. The profiles of the WGAs and their merging is conducted by using the SuperGenome data structure. GPA is implemented in Java 11 and offers a parallel computation of WGAs. For further information see our publication:
+GPA is a Genome Profile Alignment tool. GPA relies on *progressiveMauve* for the underlying alignment, to compute several smaller sets of aligned genomes that are combined to a full WGA through their profiles. The computation of the profiles of the WGAs and their merging is conducted by using the SuperGenome data structure. GPA is implemented in Java 11 and offers a parallel computation of WGAs. For further information see our publication:
 
 
 [> **Efficient merging of genome profile alignments** ](https://academic.oup.com/bioinformatics/article/35/14/i71/5529231)
