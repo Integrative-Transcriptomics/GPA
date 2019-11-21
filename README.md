@@ -67,3 +67,7 @@ GPA will create several configuration files in the stated output folder. The imp
 <code>$ java -jar GPA.jar sg_Config.txt --mergeProfiles</code>
 
 With the previous created *sg_Config.txt* file, GPA will merge all contained sequences/WGAs
+
+# Contact
+
+andre.hennig@uni-tuebingen.de
